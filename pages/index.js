@@ -5,7 +5,6 @@ import Footer from "../components/Footer/Footer";
 import RecipeCategory from "../components/RecipeCategory/RecipeCategory";
 import {RecipeService} from '../services/RecipeService';
 
-
 export async function getStaticProps(context){
   const totalItems = 30;
   const recipes = (await RecipeService.listAll()).slice(0, totalItems);
