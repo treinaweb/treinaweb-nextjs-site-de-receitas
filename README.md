@@ -1,5 +1,5 @@
 
-# TreinaWeb: curso ["Next.js - Site de Receitas"](https://www.treinaweb.com.br/curso/)
+# TreinaWeb: curso ["Next.js - Site Estático de Receitas"](https://www.treinaweb.com.br/curso/)
 
 
 
